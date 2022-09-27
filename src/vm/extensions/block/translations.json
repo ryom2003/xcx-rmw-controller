@@ -1,0 +1,17 @@
+{
+  "en": {
+    "rmw-controller.name": "RMW Controller",
+    "rmw-controller.axis": "axis [AXIS]",
+    "rmw-controller.button": "button [SLOT]"
+  },
+  "ja": {
+    "rmw-controller.name": "RMWコントローラ",
+    "rmw-controller.axis": "レバーの [AXIS] 軸",
+    "rmw-controller.button": "[SLOT] ボタン"
+  },
+  "ja-Hira": {
+    "rmw-controller.name": "RMWこんとろーら",
+    "rmw-controller.axis": "ればーの [AXIS] じく",
+    "rmw-controller.button": "[SLOT] ぼたん"
+  }
+}

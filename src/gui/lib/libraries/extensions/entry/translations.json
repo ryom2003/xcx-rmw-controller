@@ -1,0 +1,14 @@
+{
+  "en": {
+    "rmw-controller.entry.name": "'RMW",
+    "rmw-controller.entry.description": "Description of this extension"
+  },
+  "ja": {
+    "rmw-controller.entry.name": "'RMW",
+    "rmw-controller.entry.description": "拡張機能の説明"
+  },
+  "ja-Hira": {
+    "rmw-controller.entry.name": "'RMW",
+    "rmw-controller.entry.description": "かくちょうきのうのせつめい"
+  }
+}

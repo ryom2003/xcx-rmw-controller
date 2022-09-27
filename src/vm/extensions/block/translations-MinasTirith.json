@@ -1,0 +1,14 @@
+{
+  "en": {
+    "rmwController.name": "'RMW",
+    "rmwController.doIt": "do it [SCRIPT]"
+  },
+  "ja": {
+    "rmwController.name": "'RMW",
+    "rmwController.doIt": "[SCRIPT] を実行する"
+  },
+  "ja-Hira": {
+    "rmwController.name": "'RMW",
+    "rmwController.doIt": "[SCRIPT] をじっこうする"
+  }
+}

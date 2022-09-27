@@ -1,0 +1,20 @@
+{
+  "name": "xcx-rmw-controller",
+  "version": "0.0.0",
+  "scripts": {
+    "register": "npx xcratch-register --id=rmwController --gui=../scratch-gui --block=./src/vm/extensions/block --entry=./src/gui/lib/libraries/extensions/entry --core --link --use=extension-support util",
+    "build": "npx xcratch-build --module=rmwController --gui=../scratch-gui --block=./src/vm/extensions/block --entry=./src/gui/lib/libraries/extensions/entry"
+  },
+  "devDependencies": {
+    "@serialport/bindings": "^9.2.9",
+    "@serialport/list": "^10.4.0",
+    "fs": "^0.0.1-security",
+    "react-responsive": "5.0",
+    "serialport": "^10.4.0",
+    "xcratch-build": "^0.4.0",
+    "xcratch-register": "^0.4.2"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
